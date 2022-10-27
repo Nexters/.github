@@ -1,0 +1,1 @@
+<img src="../resources/banner_22nd.png">
