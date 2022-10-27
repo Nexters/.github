@@ -1,1 +1,1 @@
-<img src="../resources/banner_22nd.png">
+![22nd Banner](../resources/banner_22nd.png)
