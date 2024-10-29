@@ -1,1 +1,1 @@
-[![25rd Banner](https://github.com/Nexters/.github/blob/master/resources/banner_25th.png)](https://nexters.co.kr)
+![26rd Banner](https://github.com/user-attachments/assets/7bd65224-2bd6-4593-971a-8df346972fc1)
