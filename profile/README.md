@@ -1,1 +1,1 @@
-![26rd Banner](https://github.com/user-attachments/assets/7bd65224-2bd6-4593-971a-8df346972fc1)
+![readme_banner_27th](https://github.com/user-attachments/assets/9f48f698-b3c3-4bef-bf04-9a0346914d88)
